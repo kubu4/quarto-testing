@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Annotation - Geoduck Transcritpome with TransDecoder
-date: '2018-11-21 13:28'
+date: '2018-11-21'
 tags:
   - TransDecoder
   - geoduck
   - Panopea generosa
-  - annoation
+  - annotation
   - transcriptome
   - mox
 categories:
