@@ -16,7 +16,7 @@ website:
     #   - text: "How"  
     #     file: posts.qmd
     #  
-    tools:
+    right:
       - icon: hdd-network
         menu:
           - text: raven
