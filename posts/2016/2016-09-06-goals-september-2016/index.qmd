@@ -4,6 +4,7 @@ layout: post
 slug: goals-september-2016
 title: Goals - September 2016
 categories:
+  - 2016
   - Goals
 ---
 

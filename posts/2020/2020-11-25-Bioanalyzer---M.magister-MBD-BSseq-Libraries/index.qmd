@@ -8,6 +8,7 @@ tags:
   - MBD
   - BSseq
 categories:
+  - 2020
   - Miscellaneous
 ---
 [MBD BSseq library construction was completed yesterday (20201124)](https://robertslab.github.io/sams-notebook/2020/11/24/MBD-BSseq-Library-Prep-M.magister-MBD-selected-DNA-Using-Pico-Methyl-Seq-Kit.html). Next, I needed to evaluate the libraries using the Roberts Lab Bioanalyzer 2100 (Agilent) to assess library sizes, yields, and qualities (i.e. primer dimers).

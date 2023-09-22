@@ -4,6 +4,7 @@ layout: post
 slug: pcr-baysea-scallop-gdna-isolated-earlier-today
 title: PCR - Bay/Sea scallop gDNA isolated earlier today
 categories:
+  - 2009
   - Miscellaneous
 tags:
   - actin

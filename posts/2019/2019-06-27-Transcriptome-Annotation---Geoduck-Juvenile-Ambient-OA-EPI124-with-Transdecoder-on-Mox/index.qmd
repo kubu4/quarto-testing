@@ -12,6 +12,7 @@ tags:
   - Panopea generosa
   - mox
 categories:
+  - 2019
   - Miscellaneous
 ---
 

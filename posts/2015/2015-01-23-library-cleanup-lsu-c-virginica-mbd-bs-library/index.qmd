@@ -4,6 +4,7 @@ layout: post
 slug: library-cleanup-lsu-c-virginica-mbd-bs-library
 title: Library Cleanup - LSU C.virginica MBD BS Library
 categories:
+  - 2015
   - LSU C.virginica Oil Spill MBD BS Sequencing
 tags:
   - bioanalyzer

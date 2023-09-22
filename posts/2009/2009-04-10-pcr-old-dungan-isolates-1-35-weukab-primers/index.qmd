@@ -4,6 +4,7 @@ layout: post
 slug: pcr-old-dungan-isolates-1-35-weukab-primers
 title: 'PCR - Old Dungan isolates #1-35 w/EukA/B primers'
 categories:
+  - 2009
   - Miscellaneous
 tags:
   - Dungan isolates

@@ -10,6 +10,7 @@ tags:
   - metagenome
   - assembly
 categories:
+  - 2019
   - Miscellaneous
 ---
 Attempting an assembly of our geoduck metagenomics HiSeqX data using [Megahit (v.1.1.4)](https://github.com/voutcn/megahit) on a Mox node.

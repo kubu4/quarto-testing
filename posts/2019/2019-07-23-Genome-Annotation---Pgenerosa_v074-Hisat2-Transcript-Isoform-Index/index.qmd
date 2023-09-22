@@ -11,6 +11,7 @@ tags:
   - gff
   - gtf
 categories:
+  - 2019
   - Geoduck Genome Sequencing
 ---
 

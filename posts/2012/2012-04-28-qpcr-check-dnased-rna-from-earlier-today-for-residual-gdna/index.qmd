@@ -4,6 +4,7 @@ layout: post
 slug: qpcr-check-dnased-rna-from-earlier-today-for-residual-gdna
 title: qPCR - Check DNased RNA from Earlier Today for Residual gDNA
 categories:
+  - 2012
   - Miscellaneous
 tags:
   - CFX96

@@ -5,6 +5,7 @@ date: '2022-12-01 07:23'
 tags: 
   - daily bits
 categories: 
+  - 2022
   - Daily Bits
 ---
 

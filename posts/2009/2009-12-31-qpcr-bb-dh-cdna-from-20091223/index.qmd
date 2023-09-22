@@ -4,6 +4,7 @@ layout: post
 slug: qpcr-bb-dh-cdna-from-20091223
 title: qPCR - BB & DH cDNA (from 20091223)
 categories:
+  - 2009
   - PROPS
 tags:
   - BB

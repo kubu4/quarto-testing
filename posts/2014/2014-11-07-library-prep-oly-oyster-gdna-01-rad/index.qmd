@@ -4,6 +4,7 @@ layout: post
 slug: library-prep-oly-oyster-gdna-01-rad
 title: Library Prep - Oly Oyster gDNA-01 RAD
 categories:
+  - 2014
   - Olympia oyster reciprocal transplant
 tags:
   - library prep

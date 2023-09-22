@@ -4,6 +4,7 @@ layout: post
 slug: uninterruptible-power-supplies-ups
 title: Uninterruptible Power Supplies (UPS)
 categories:
+  - 2015
   - Computer Servicing
 tags:
   - Eagle

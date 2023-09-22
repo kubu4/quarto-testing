@@ -9,6 +9,7 @@ tags:
   - Chionoecetes bairdi
   - DIAMOND
 categories:
+  - 2020
   - Miscellaneous
 ---
 As part of annotating the _C.bairdi_ [v2.0 transcriptome assembly from 20200502](https://robertslab.github.io/sams-notebook/2020/05/02/Transcriptome-Assembly-C.bairdi-All-RNAseq-Data-Without-Taxonomic-Filters-with-Trinity-on-Mox.html), I need to run DIAMOND BLASTx to use with Trinotate.

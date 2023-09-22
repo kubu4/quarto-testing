@@ -8,6 +8,7 @@ tags:
   - geoduck
   - anvio
 categories:
+  - 2019
   - Miscellaneous
 ---
 UPDATE 20220121: THIS IS AN INCOMPLETE POST AND IS ONLY POSTED FOR POSTERITY.

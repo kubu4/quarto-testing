@@ -4,6 +4,7 @@ layout: post
 slug: quality-trimming-c-gigas-larvae-oa-bs-seq-data
 title: Quality Trimming - C.gigas Larvae OA BS-Seq Data
 categories:
+  - 2015
   - Crassostrea gigas larvae OA (2011) bisulfite sequencing
 tags:
   - bioinformatics

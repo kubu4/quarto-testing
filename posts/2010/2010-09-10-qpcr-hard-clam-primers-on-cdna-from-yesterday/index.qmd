@@ -4,6 +4,7 @@ layout: post
 slug: qpcr-hard-clam-primers-on-cdna-from-yesterday
 title: qPCR - Hard Clam Primers on cDNA from yesterday
 categories:
+  - 2010
   - Miscellaneous
 tags:
   - BigDef

@@ -4,6 +4,7 @@ layout: post
 slug: goals-october-2017
 title: Goals - October 2017
 categories:
+  - 2017
   - Goals
 ---
 

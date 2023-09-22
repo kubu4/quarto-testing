@@ -4,6 +4,7 @@ layout: post
 slug: reverse-transcription-o-lurida-dnased-rna-controls-and-1hr-heat-shock
 title: Reverse Transcription - O.lurida DNased RNA Controls and 1hr Heat Shock
 categories:
+  - 2015
   - Miscellaneous
 tags:
   - DNased RNA

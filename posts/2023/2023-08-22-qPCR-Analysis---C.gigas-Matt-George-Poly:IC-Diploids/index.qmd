@@ -9,6 +9,7 @@ tags:
   - diploid
   - Pacific oyster
 categories: 
+  - 2023
   - Miscellaneous
 ---
 Ran a "quick and dirty" qPCR analysis for the qPCR's I'd previously run:

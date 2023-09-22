@@ -4,6 +4,7 @@ layout: post
 slug: data-received-jays-coral-epiradseq
 title: Data Received - Jay's Coral epiRADseq
 categories:
+  - 2016
   - Miscellaneous
 tags:
   - coral

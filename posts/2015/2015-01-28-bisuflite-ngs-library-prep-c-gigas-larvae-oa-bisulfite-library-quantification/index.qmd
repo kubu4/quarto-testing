@@ -4,6 +4,7 @@ layout: post
 slug: bisuflite-ngs-library-prep-c-gigas-larvae-oa-bisulfite-library-quantification
 title: Bisuflite NGS Library Prep – C.gigas larvae OA bisulfite library quantification
 categories:
+  - 2015
   - Crassostrea gigas larvae OA (2011) bisulfite sequencing
 tags:
   - BS-seq

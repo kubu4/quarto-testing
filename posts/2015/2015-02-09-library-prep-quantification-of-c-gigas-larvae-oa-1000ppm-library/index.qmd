@@ -4,6 +4,7 @@ layout: post
 slug: library-prep-quantification-of-c-gigas-larvae-oa-1000ppm-library
 title: Library Prep - Quantification of C.gigas larvae OA 1000ppm library
 categories:
+  - 2015
   - Crassostrea gigas larvae OA (2011) bisulfite sequencing
 tags:
   - BS-seq

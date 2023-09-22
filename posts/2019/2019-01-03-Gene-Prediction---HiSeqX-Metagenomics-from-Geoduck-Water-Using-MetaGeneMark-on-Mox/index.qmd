@@ -10,6 +10,7 @@ tags:
   - MetaGeneMark
   - mox
 categories:
+  - 2019
   - Miscellaneous
 ---
 [After assembline the metagenomic data yesterday](https://robertslab.github.io/sams-notebook/2019/01/02/Metagenome-Assembly-P.generosa-Water-Sample-HiSeqX-Data-Using-Megahit.html), I needed to predict some genes. I did this using [MetaGeneMark (v.3.38)](http://exon.gatech.edu/GeneMark/) and ran it on Mox.

@@ -4,6 +4,7 @@ layout: post
 slug: genomic-dna-isolation-olympia-oyster-adductor-musle-mantle-2
 title: Genomic DNA Isolation - Olympia oyster adductor musle & mantle
 categories:
+  - 2015
   - Olympia Oyster Genome Sequencing
 tags:
   - adductor muscle

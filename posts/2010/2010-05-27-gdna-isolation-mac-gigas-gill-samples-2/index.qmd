@@ -4,6 +4,7 @@ layout: post
 slug: gdna-isolation-mac-gigas-gill-samples-2
 title: gDNA Isolation - Mac gigas gill samples
 categories:
+  - 2010
   - Miscellaneous
 tags:
   - Crassostrea gigas

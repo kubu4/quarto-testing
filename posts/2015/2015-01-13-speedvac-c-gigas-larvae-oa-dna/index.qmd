@@ -4,6 +4,7 @@ layout: post
 slug: speedvac-c-gigas-larvae-oa-dna
 title: SpeedVac - C.gigas larvae OA DNA
 categories:
+  - 2015
   - Crassostrea gigas larvae OA (2011) bisulfite sequencing
 tags:
   - concentrate

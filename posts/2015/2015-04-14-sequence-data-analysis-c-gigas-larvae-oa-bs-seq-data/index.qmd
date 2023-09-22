@@ -4,6 +4,7 @@ layout: post
 slug: sequence-data-analysis-c-gigas-larvae-oa-bs-seq-data
 title: Sequence Data Analysis - C.gigas Larvae OA BS-Seq Data
 categories:
+  - 2015
   - Crassostrea gigas larvae OA (2011) bisulfite sequencing
 tags:
   - BS-seq

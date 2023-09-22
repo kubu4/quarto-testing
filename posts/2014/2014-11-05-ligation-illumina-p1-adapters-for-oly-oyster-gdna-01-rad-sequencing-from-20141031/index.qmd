@@ -5,6 +5,7 @@ slug: ligation-illumina-p1-adapters-for-oly-oyster-gdna-01-rad-sequencing-from-2
 title: Ligation - Illumina P1 Adapters for Oly Oyster gDNA-01 RAD Sequencing (from
   20141031)
 categories:
+  - 2014
   - Olympia oyster reciprocal transplant
 tags:
   - library prep

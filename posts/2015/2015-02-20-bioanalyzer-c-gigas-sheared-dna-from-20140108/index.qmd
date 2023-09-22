@@ -4,6 +4,7 @@ layout: post
 slug: bioanalyzer-c-gigas-sheared-dna-from-20140108
 title: Bioanalyzer - C.gigas Sheared DNA from 20140108
 categories:
+  - 2015
   - Lineage-specific DNA methylation patterns in developing oysters
 tags:
   - bioanalyzer

@@ -5,6 +5,7 @@ slug: transcriptome-alignment-bedgraph-olympia-oyster-transcriptome-with-olurida
 title: Transcriptome Alignment & Bedgraph – Olympia oyster transcriptome with Olurida_v080
   genome assembly
 categories:
+  - 2018
   - Miscellaneous
 tags:
   - alignment

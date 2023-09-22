@@ -4,6 +4,7 @@ layout: post
 slug: dnase-c-gigas-rna-from-20120124
 title: DNAse - C.gigas RNA from 20120124
 categories:
+  - 2012
   - Miscellaneous
 tags:
   - Crassostrea gigas

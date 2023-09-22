@@ -4,6 +4,7 @@ layout: post
 slug: dissection-frozen-geoduck-pacific-oyster
 title: Dissection - Frozen Geoduck & Pacific Oyster
 categories:
+  - 2016
   - Miscellaneous
 tags:
   - Crassostrea gigas

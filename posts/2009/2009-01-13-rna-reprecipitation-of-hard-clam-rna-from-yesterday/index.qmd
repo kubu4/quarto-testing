@@ -4,6 +4,7 @@ layout: post
 slug: rna-reprecipitation-of-hard-clam-rna-from-yesterday
 title: RNA - Reprecipitation of hard clam RNA from yesterday
 categories:
+  - 2009
   - Miscellaneous
 tags:
   - EtOH precipitation

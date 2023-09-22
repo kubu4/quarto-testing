@@ -4,6 +4,7 @@ layout: post
 slug: qpcr-re-dnased-oyster-rna-from-today
 title: qPCR - Re-DNased oyster RNA from today
 categories:
+  - 2009
   - PROPS
 tags:
   - Crassostrea gigas

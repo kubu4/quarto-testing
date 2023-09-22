@@ -4,6 +4,7 @@ layout: post
 slug: rad-seq-library-prep-reagents
 title: RAD-Seq Library Prep Reagents
 categories:
+  - 2015
   - 2bRAD Library Tests for Sequencing at Genewiz
   - Reagent Prep
 tags:

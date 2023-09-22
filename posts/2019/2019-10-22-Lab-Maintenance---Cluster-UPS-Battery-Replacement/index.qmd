@@ -8,6 +8,7 @@ tags:
   - apc
   - gannet
 categories:
+  - 2019
   - Miscellaneous
 ---
 Replaced the batteries on one of the APC uninterruptable power supplies (UPS) on our local server cabinet.

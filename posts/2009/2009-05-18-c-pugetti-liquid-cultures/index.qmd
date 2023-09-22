@@ -4,6 +4,7 @@ layout: post
 slug: c-pugetti-liquid-cultures
 title: C.pugetti - Liquid Cultures
 categories:
+  - 2009
   - Miscellaneous
 tags:
   - bacterial culture

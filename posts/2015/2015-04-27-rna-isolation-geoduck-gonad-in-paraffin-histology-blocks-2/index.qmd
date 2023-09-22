@@ -4,6 +4,7 @@ layout: post
 slug: rna-isolation-geoduck-gonad-in-paraffin-histology-blocks-2
 title: RNA Isolation – Geoduck Gonad in Paraffin Histology Blocks
 categories:
+  - 2015
   - Protein expression profiles during sexual maturation in Geoduck
 tags:
   - geoduck

@@ -4,6 +4,7 @@ layout: post
 slug: mbl-shipment-hard-clam-gill-tissue-in-rna-later
 title: MBL Shipment - Hard Clam gill tissue in RNA Later
 categories:
+  - 2009
   - Miscellaneous
 tags:
   - BX

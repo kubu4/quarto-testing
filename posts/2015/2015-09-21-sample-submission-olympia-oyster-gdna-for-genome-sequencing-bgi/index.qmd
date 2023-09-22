@@ -4,6 +4,7 @@ layout: post
 slug: sample-submission-olympia-oyster-gdna-for-genome-sequencing-bgi
 title: Sample Submission - Olympia Oyster gDNA for Genome Sequencing @ BGI
 categories:
+  - 2015
   - Olympia Oyster Genome Sequencing
   - Samples Submitted
 tags:

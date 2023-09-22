@@ -4,6 +4,7 @@ layout: post
 slug: goals-may-2016
 title: Goals - May 2016
 categories:
+  - 2016
   - Goals
 ---
 

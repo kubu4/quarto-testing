@@ -4,6 +4,7 @@ layout: post
 slug: reverse-transcription-dnased-c-gigas-larval-rna-from-20120427
 title: Reverse Transcription - DNased C.gigas Larval RNA from 20120427
 categories:
+  - 2012
   - Miscellaneous
 tags:
   - M-MLV

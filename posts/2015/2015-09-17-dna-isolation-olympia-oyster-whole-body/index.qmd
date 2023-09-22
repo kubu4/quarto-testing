@@ -4,6 +4,7 @@ layout: post
 slug: dna-isolation-olympia-oyster-whole-body
 title: DNA Isolation - Olympia oyster whole body
 categories:
+  - 2015
   - 2bRAD Library Tests for Sequencing at Genewiz
   - Olympia oyster reciprocal transplant
 tags:

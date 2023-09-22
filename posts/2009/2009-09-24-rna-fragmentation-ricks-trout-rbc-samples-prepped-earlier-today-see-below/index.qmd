@@ -4,6 +4,7 @@ layout: post
 slug: rna-fragmentation-ricks-trout-rbc-samples-prepped-earlier-today-see-below
 title: RNA Fragmentation - Rick's trout RBC samples prepped earlier today (see below)
 categories:
+  - 2009
   - Miscellaneous
 tags:
   - library prep

@@ -4,6 +4,7 @@ layout: post
 slug: dna-quantification-oly-oyster-gdna-01-rad-library
 title: DNA Quantification - Oly Oyster gDNA-01 RAD Library
 categories:
+  - 2014
   - Olympia oyster reciprocal transplant
 tags:
   - DNA Quantification

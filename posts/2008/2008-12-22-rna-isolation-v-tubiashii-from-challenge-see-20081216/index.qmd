@@ -4,6 +4,7 @@ layout: post
 slug: rna-isolation-v-tubiashii-from-challenge-see-20081216
 title: RNA Isolation - V. tubiashii from challenge (see 20081216)
 categories:
+  - 2008
   - Miscellaneous
 tags:
   - MICROBExpress Kit

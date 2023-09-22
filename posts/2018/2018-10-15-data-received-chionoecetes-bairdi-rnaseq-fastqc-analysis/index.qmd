@@ -4,6 +4,7 @@ layout: post
 slug: data-received-chionoecetes-bairdi-rnaseq-fastqc-analysis
 title: Data Received - Chionoecetes bairdi RNAseq & FastQC Analysis
 categories:
+  - 2018
   - Miscellaneous
 tags:
   - Chionoecetes bairdi

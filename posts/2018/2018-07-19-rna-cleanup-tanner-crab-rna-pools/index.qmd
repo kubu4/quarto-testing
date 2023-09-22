@@ -4,6 +4,7 @@ layout: post
 slug: rna-cleanup-tanner-crab-rna-pools
 title: RNA Cleanup - Tanner Crab RNA Pools
 categories:
+  - 2018
   - Tanner Crab RNAseq
 tags:
   - NanoDrop1000

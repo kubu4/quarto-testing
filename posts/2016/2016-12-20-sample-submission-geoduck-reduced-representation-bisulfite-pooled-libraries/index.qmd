@@ -4,6 +4,7 @@ layout: post
 slug: sample-submission-geoduck-reduced-representation-bisulfite-pooled-libraries
 title: Sample Submission - Geoduck Reduced Representation Bisulfite Pooled Libraries
 categories:
+  - 2016
   - Samples Submitted
 tags:
   - geoduck

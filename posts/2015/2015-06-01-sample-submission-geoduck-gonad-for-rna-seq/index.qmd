@@ -4,6 +4,7 @@ layout: post
 slug: sample-submission-geoduck-gonad-for-rna-seq
 title: Sample Submission - Geoduck Gonad for RNA-seq
 categories:
+  - 2015
   - Protein expression profiles during sexual maturation in Geoduck
 tags:
   - DNased RNA

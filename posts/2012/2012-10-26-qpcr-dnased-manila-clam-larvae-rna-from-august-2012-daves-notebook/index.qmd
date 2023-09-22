@@ -4,6 +4,7 @@ layout: post
 slug: qpcr-dnased-manila-clam-larvae-rna-from-august-2012-daves-notebook
 title: qPCR - DNased Manila Clam Larvae RNA (from August 2012 - Dave's Notebook)
 categories:
+  - 2012
   - Miscellaneous
 tags:
   - DNase

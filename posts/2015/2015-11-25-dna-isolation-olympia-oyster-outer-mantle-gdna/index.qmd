@@ -4,6 +4,7 @@ layout: post
 slug: dna-isolation-olympia-oyster-outer-mantle-gdna
 title: DNA Isolation - Olympia Oyster Outer Mantle gDNA
 categories:
+  - 2015
   - Olympia Oyster Genome Sequencing
 tags:
   - DNA Isolation

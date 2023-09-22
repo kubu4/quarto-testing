@@ -4,6 +4,7 @@ layout: post
 slug: troubleshooting-pb-jelly-install-on-emu
 title: Troubleshooting - PB Jelly Install on Emu
 categories:
+  - 2017
   - Miscellaneous
 tags:
   - $PATH

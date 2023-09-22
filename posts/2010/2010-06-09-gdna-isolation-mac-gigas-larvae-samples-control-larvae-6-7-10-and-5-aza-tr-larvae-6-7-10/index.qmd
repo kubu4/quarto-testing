@@ -5,6 +5,7 @@ slug: gdna-isolation-mac-gigas-larvae-samples-control-larvae-6-7-10-and-5-aza-tr
 title: 'gDNA Isolation - Mac gigas larvae samples: control larvae 6.7.10 and 5-aza
   tr larvae 6.7.10'
 categories:
+  - 2010
   - Miscellaneous
 tags:
   - 5-azacitidine

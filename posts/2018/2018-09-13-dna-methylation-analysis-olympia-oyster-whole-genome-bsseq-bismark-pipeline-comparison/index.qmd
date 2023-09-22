@@ -5,6 +5,7 @@ slug: dna-methylation-analysis-olympia-oyster-whole-genome-bsseq-bismark-pipelin
 title: DNA Methylation Analysis - Olympia Oyster Whole Genome BSseq Bismark Pipeline
   Comparison
 categories:
+  - 2018
   - Miscellaneous
 tags:
   - bismark

@@ -4,6 +4,7 @@ layout: post
 slug: package-recd-from-noaa-in-connecticut
 title: Package Rec'd - From NOAA in Connecticut
 categories:
+  - 2010
   - Miscellaneous
 tags:
   - algae

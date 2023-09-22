@@ -4,6 +4,7 @@ layout: post
 slug: data-received-jays-coral-radseq-and-hollies-geoduck-epi-radseq
 title: Data Received - Jay's Coral RADseq and Hollie's Geoduck Epi-RADseq
 categories:
+  - 2017
   - Miscellaneous
 tags:
   - Anthopleura elegantissima

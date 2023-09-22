@@ -4,6 +4,7 @@ layout: post
 slug: data-analysis-oly-gbs-data-using-stacks-1-37
 title: Data Analysis - Oly GBS Data Using Stacks 1.37
 categories:
+  - 2016
   - Genotype-by-sequencing at BGI
 tags:
   - BGI

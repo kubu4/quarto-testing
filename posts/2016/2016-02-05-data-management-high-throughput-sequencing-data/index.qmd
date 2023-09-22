@@ -4,6 +4,7 @@ layout: post
 slug: data-management-high-throughput-sequencing-data
 title: Data Management - High-throughput Sequencing Data
 categories:
+  - 2016
   - Miscellaneous
 tags:
   - fusion table

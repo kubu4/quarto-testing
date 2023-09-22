@@ -4,6 +4,7 @@ layout: post
 slug: qpcr-cdna-from-earlier-today
 title: qPCR - cDNA from earlier today
 categories:
+  - 2012
   - Miscellaneous
 tags:
   - 16s

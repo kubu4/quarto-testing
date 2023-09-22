@@ -4,6 +4,7 @@ layout: post
 slug: bs-seq-library-prep-c-gigas-larvae-oa-1000ppm
 title: BS-seq Library Prep - C.gigas Larvae OA 1000ppm
 categories:
+  - 2015
   - Crassostrea gigas larvae OA (2011) bisulfite sequencing
 tags:
   - bisulfite conversion

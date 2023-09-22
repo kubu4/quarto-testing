@@ -4,6 +4,7 @@ layout: post
 slug: automatic-notebook-backups-wget-script-synology-task-scheduler
 title: Automatic Notebook Backups - wget Script & Synology Task Scheduler
 categories:
+  - 2015
   - Computer Servicing
 tags:
   - backup

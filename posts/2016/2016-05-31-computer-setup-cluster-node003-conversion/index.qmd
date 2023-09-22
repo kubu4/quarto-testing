@@ -4,6 +4,7 @@ layout: post
 slug: computer-setup-cluster-node003-conversion
 title: Computer Setup - Cluster Node003 Conversion
 categories:
+  - 2016
   - Computer Servicing
 tags:
   - cluster

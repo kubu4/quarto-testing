@@ -9,6 +9,7 @@ tags:
   - BSseq
   - SRA
 categories: 
+  - 2022
   - SRA Submission
 ---
 Submitted our [_Ostrea lurida_ (Olympia oyster)](http://en.wikipedia.org/wiki/Pacific_oyster) MBD BS-seq data [from 20160203](https://robertslab.github.io/sams-notebook/2016/02/03/data-received-ostrea-lurida-mbd-enriched-bs-seq.html) to the [NCBI Sequence Read Archive (SRA)](https://www.ncbi.nlm.nih.gov/sra).

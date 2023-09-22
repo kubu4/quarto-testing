@@ -4,6 +4,7 @@ layout: post
 slug: adaptor-ligation-oly-alfi-digested-gdna-for-rad-seq-2
 title: Adaptor Ligation – Oly AlfI-Digested gDNA for RAD-seq
 categories:
+  - 2015
   - 2bRAD Library Tests for Sequencing at Genewiz
   - Olympia oyster reciprocal transplant
 tags:

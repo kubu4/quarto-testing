@@ -4,6 +4,7 @@ layout: post
 slug: phenol-chloroform-dna-cleanup-geoduck-gdna
 title: Phenol-Chloroform DNA Cleanup - Geoduck gDNA
 categories:
+  - 2015
   - Geoduck Genome Sequencing
 tags:
   - DNA Quantification

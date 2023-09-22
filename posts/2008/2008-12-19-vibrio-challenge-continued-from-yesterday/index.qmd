@@ -4,6 +4,7 @@ layout: post
 slug: vibrio-challenge-continued-from-yesterday
 title: Vibrio challenge CONTINUED (from yesterday)
 categories:
+  - 2008
   - Miscellaneous
 tags:
   - bacterial challenge

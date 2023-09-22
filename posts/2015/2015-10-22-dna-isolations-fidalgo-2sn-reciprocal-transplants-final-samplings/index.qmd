@@ -4,6 +4,7 @@ layout: post
 slug: dna-isolations-fidalgo-2sn-reciprocal-transplants-final-samplings
 title: DNA Isolations - Fidalgo 2SN Reciprocal Transplants Final Samplings
 categories:
+  - 2015
   - Olympia oyster reciprocal transplant
 tags:
   - ctenidia

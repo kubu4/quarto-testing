@@ -9,6 +9,7 @@ tags:
   - Ostrea lurida
   - olympia oyster
 categories:
+  - 2018
   - Olympia Oyster Genome Sequencing
 ---
 

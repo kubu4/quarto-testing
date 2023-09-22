@@ -4,6 +4,7 @@ layout: post
 slug: data-analysis-continued-o-lurida-fst-analysis-from-gbs-data
 title: Data Analysis - Continued O.lurida Fst Analysis from GBS Data
 categories:
+  - 2016
   - Genotype-by-sequencing at BGI
   - Olympia oyster reciprocal transplant
 ---

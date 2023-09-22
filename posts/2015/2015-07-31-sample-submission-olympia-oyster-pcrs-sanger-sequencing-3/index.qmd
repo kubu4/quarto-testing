@@ -4,6 +4,7 @@ layout: post
 slug: sample-submission-olympia-oyster-pcrs-sanger-sequencing-3
 title: Sample Submission – Olympia oyster PCRs Sanger Sequencing
 categories:
+  - 2015
   - Olympia oyster reciprocal transplant
 ---
 

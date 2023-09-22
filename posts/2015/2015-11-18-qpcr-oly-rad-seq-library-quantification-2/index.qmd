@@ -4,6 +4,7 @@ layout: post
 slug: qpcr-oly-rad-seq-library-quantification-2
 title: qPCR – Oly RAD-Seq Library Quantification
 categories:
+  - 2015
   - 2bRAD Library Tests for Sequencing at Genewiz
   - Olympia oyster reciprocal transplant
 tags:

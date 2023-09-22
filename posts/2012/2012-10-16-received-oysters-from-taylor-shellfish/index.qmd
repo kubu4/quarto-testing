@@ -4,6 +4,7 @@ layout: post
 slug: received-oysters-from-taylor-shellfish
 title: Received oysters from Taylor Shellfish.
 categories:
+  - 2012
   - Miscellaneous
 tags:
   - olympia oyster

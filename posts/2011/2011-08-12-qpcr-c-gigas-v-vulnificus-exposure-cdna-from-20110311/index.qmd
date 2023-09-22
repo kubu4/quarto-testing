@@ -4,6 +4,7 @@ layout: post
 slug: qpcr-c-gigas-v-vulnificus-exposure-cdna-from-20110311
 title: qPCR - C.gigas V.vulnificus Exposure cDNA (from 20110311)
 categories:
+  - 2011
   - Miscellaneous
 tags:
   - cDNA

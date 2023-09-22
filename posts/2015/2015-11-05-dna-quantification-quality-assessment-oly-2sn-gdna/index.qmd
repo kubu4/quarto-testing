@@ -4,6 +4,7 @@ layout: post
 slug: dna-quantification-quality-assessment-oly-2sn-gdna
 title: DNA Quantification & Quality Assessment - Oly 2SN gDNA
 categories:
+  - 2015
   - Olympia oyster reciprocal transplant
 tags:
   - bioanalyzer

@@ -4,6 +4,7 @@ layout: post
 slug: sra-submission-genome-sequencing-of-the-olympia-oyster-ostrea-lurida
 title: SRA Submission – Genome sequencing of the Olympia oyster (Ostrea lurida)
 categories:
+  - 2016
   - Olympia Oyster Genome Sequencing
   - SRA Submissions
 tags:

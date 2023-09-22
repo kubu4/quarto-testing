@@ -9,6 +9,7 @@ tags:
   - Qubit
   - RNA HS Assay
 categories:
+  - 2019
   - Tanner Crab RNAseq
 ---
 

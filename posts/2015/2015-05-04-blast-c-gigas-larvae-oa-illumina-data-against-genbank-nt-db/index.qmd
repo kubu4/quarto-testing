@@ -4,6 +4,7 @@ layout: post
 slug: blast-c-gigas-larvae-oa-illumina-data-against-genbank-nt-db
 title: BLAST - C.gigas Larvae OA Illumina Data Against GenBank nt DB
 categories:
+  - 2015
   - Crassostrea gigas larvae OA (2011) bisulfite sequencing
 tags:
   - bioinformatics

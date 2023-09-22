@@ -5,6 +5,7 @@ slug: dna-methylation-quantification-acropora-cervicornis-staghorn-coral-dna-fro
 title: DNA Methylation Quantification - Acropora cervicornis (Staghorn coral) DNA
   from Javier Casariego (FIU)
 categories:
+  - 2017
   - Miscellaneous
 tags:
   - 2h Block 1

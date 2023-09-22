@@ -4,6 +4,7 @@ layout: post
 slug: qpcr-dnased-oyster-rna-from-earlier-today
 title: qPCR - DNased oyster RNA from earlier today
 categories:
+  - 2009
   - PROPS
 tags:
   - 18s

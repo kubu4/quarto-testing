@@ -4,6 +4,7 @@ layout: post
 slug: data-management-geoduck-rrbs-data-integrity-verification
 title: Data Management - Geoduck RRBS Data Integrity Verification
 categories:
+  - 2016
   - Miscellaneous
 tags:
   - geoduck

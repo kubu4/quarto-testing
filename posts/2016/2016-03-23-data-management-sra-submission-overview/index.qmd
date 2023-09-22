@@ -4,6 +4,7 @@ layout: post
 slug: data-management-sra-submission-overview
 title: Data Management - SRA Submission Overview
 categories:
+  - 2016
   - Miscellaneous
 tags:
   - NCBI

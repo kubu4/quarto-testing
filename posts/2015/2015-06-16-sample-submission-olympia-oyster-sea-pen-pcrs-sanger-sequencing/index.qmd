@@ -4,6 +4,7 @@ layout: post
 slug: sample-submission-olympia-oyster-sea-pen-pcrs-sanger-sequencing
 title: Sample Submission – Olympia oyster & Sea Pen PCRs Sanger Sequencing
 categories:
+  - 2015
   - Miscellaneous
 tags:
   - olympia oyster

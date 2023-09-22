@@ -4,6 +4,7 @@ layout: post
 slug: gdna-isolation-various-gigas-samples
 title: gDNA Isolation - Various gigas samples
 categories:
+  - 2010
   - Miscellaneous
 tags:
   - 5-azacitidine

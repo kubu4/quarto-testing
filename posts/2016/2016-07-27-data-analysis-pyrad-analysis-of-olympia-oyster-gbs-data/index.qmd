@@ -4,6 +4,7 @@ layout: post
 slug: data-analysis-pyrad-analysis-of-olympia-oyster-gbs-data
 title: Data Analysis - PyRad Analysis of Olympia Oyster GBS Data
 categories:
+  - 2016
   - Genotype-by-sequencing at BGI
 tags:
   - docker

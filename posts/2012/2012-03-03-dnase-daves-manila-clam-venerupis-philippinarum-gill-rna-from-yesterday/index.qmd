@@ -4,6 +4,7 @@ layout: post
 slug: dnase-daves-manila-clam-venerupis-philippinarum-gill-rna-from-yesterday
 title: DNase - Dave's Manila Clam (Venerupis philippinarum) Gill RNA from Yesterday
 categories:
+  - 2012
   - Miscellaneous
 tags:
   - DNase

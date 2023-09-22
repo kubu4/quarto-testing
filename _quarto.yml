@@ -5,6 +5,7 @@ project:
 
 website:
   title: "robertslab.info"
+  favicon: /images/favicon.ico
   navbar:
     background: primary
     search: true
@@ -20,7 +21,8 @@ website:
       - icon: hdd-network
         menu:
           - text: raven
-            url:  http://raven.fish.washington.edu:8787
+            href:  http://raven.fish.washington.edu:8787
+            target: _blank
           - text: gannet
             url:  https://gannet.fish.washington.edu
     

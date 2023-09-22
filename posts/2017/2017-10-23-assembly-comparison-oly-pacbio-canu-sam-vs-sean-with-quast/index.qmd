@@ -4,6 +4,7 @@ layout: post
 slug: assembly-comparison-oly-pacbio-canu-sam-vs-sean-with-quast
 title: 'Assembly Comparison - Oly PacBio Canu: Sam vs. Sean with Quast'
 categories:
+  - 2017
   - Miscellaneous
 ---
 

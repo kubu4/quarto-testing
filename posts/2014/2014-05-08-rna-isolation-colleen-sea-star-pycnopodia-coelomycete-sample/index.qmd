@@ -4,6 +4,7 @@ layout: post
 slug: rna-isolation-colleen-sea-star-pycnopodia-coelomycete-sample
 title: RNA Isolation - Colleen Sea Star (Pycnopodia) Coelomycete Sample
 categories:
+  - 2014
   - Sea star RNA-seq
 tags:
   - coelomycete

@@ -11,6 +11,7 @@ tags:
   - mox
   - gonad
 categories:
+  - 2019
   - Miscellaneous
 ---
 Based on a [discussion in this GitHub Issue](https://github.com/RobertsLab/resources/issues/576), I've initiated some tissue-specific transcriptome assemblies with our current geoduck data.

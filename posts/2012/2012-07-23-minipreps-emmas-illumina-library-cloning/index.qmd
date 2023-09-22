@@ -4,6 +4,7 @@ layout: post
 slug: minipreps-emmas-illumina-library-cloning
 title: Minipreps - Emma's Illumina Library Cloning
 categories:
+  - 2012
   - Miscellaneous
 tags:
   - DNA

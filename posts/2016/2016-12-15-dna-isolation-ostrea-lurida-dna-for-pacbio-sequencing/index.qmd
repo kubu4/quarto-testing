@@ -4,6 +4,7 @@ layout: post
 slug: dna-isolation-ostrea-lurida-dna-for-pacbio-sequencing
 title: DNA Isolation - Ostrea lurida DNA for PacBio Sequencing
 categories:
+  - 2016
   - Olympia Oyster Genome Sequencing
 tags:
   - DNA Isolation

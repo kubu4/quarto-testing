@@ -4,6 +4,7 @@ layout: post
 slug: reverse-transcription-herring-liver-mrna-for-solid-libraries
 title: Reverse Transcription - Herring Liver mRNA for SOLiD Libraries
 categories:
+  - 2009
   - Miscellaneous
 tags:
   - 2L

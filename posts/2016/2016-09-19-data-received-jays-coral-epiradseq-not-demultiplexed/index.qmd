@@ -4,6 +4,7 @@ layout: post
 slug: data-received-jays-coral-epiradseq-not-demultiplexed
 title: Data Received – Jay’s Coral epiRADseq - Not Demultiplexed
 categories:
+  - 2016
   - Miscellaneous
 tags:
   - coral

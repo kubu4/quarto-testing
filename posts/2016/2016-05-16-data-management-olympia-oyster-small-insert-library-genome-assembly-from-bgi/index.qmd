@@ -5,6 +5,7 @@ slug: data-management-olympia-oyster-small-insert-library-genome-assembly-from-b
 title: Data Management - Olympia Oyster Small Insert Library Genome Assembly from
   BGI
 categories:
+  - 2016
   - Olympia Oyster Genome Sequencing
 tags:
   - BGI

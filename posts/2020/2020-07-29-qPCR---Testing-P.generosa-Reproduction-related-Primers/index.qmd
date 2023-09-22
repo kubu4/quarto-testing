@@ -10,6 +10,7 @@ tags:
   - BioRad
   - 2x SsoFast Eva Green
 categories:
+  - 2020
   - Miscellaneous
 ---
 [Ran some qPCRs on some other primers on 20200723](https://robertslab.github.io/sams-notebook/2020/07/23/qPCR-Testing-P.generosa-Reproduction-related-Primers.html) and then [Shelly has asked me to test some additional qPCR primers](https://github.com/RobertsLab/resources/issues/970) that might have acceptable melt curves and be usable as normalizing genes.

@@ -4,6 +4,7 @@ layout: post
 slug: gdna-isolation-2
 title: gDNA Isolation
 categories:
+  - 2010
   - Miscellaneous
 tags:
   - crab

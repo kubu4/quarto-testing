@@ -4,6 +4,7 @@ layout: post
 slug: computing-an-excercuse-in-futility
 title: Computing - An Excercise in Futility
 categories:
+  - 2016
   - Miscellaneous
 tags:
   - jupyter notebook

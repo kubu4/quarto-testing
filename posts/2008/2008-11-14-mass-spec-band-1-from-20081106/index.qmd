@@ -4,6 +4,7 @@ layout: post
 slug: mass-spec-band-1-from-20081106
 title: 'Mass Spec - Band #1 from 20081106'
 categories:
+  - 2008
   - Myostatin Interacting Proteins
 tags:
   - co-IP

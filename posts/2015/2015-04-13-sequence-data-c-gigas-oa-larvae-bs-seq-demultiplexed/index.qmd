@@ -4,6 +4,7 @@ layout: post
 slug: sequence-data-c-gigas-oa-larvae-bs-seq-demultiplexed
 title: Sequence Data - C.gigas OA Larvae BS-Seq Demultiplexed
 categories:
+  - 2015
   - Crassostrea gigas larvae OA (2011) bisulfite sequencing
 tags:
   - BS-seq

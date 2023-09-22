@@ -4,6 +4,7 @@ layout: post
 slug: github-curation
 title: GitHub Curation
 categories:
+  - 2017
   - Miscellaneous
 tags:
   - GitHub

@@ -9,6 +9,7 @@ tags:
   - MAKER
   - mox
 categories:
+  - 2019
   - Geoduck Genome Sequencing
 ---
 For reference, this annotation will be referred to as Pgenerosa_v074.1.

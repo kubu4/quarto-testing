@@ -7,6 +7,7 @@ tags:
   - wgbs
   - RNAseq
 categories: 
+  - 2021
   - Data Received
 ---
 Yaamini received her sequencing data from ZymoResearch; both whole genome bisfulfite sequencing (WGBS) and RNAseq. [I was tasked with downloading the data and running QC](https://github.com/RobertsLab/resources/issues/1209).

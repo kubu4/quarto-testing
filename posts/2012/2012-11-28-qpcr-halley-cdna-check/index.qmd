@@ -4,6 +4,7 @@ layout: post
 slug: qpcr-halley-cdna-check
 title: qPCR - Halley cDNA Check
 categories:
+  - 2012
   - Miscellaneous
 tags:
   - Opticon2

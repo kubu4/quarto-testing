@@ -4,6 +4,7 @@ layout: post
 slug: data-management-sra-submission-of-ostrea-lurida-gbs-fastq-files
 title: Data Management - SRA Submission of Ostrea lurida GBS FASTQ Files
 categories:
+  - 2017
   - Genotype-by-sequencing at BGI
   - SRA Submissions
 tags:

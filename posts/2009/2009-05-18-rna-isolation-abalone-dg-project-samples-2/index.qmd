@@ -4,6 +4,7 @@ layout: post
 slug: rna-isolation-abalone-dg-project-samples-2
 title: RNA Isolation - Abalone Dg Project samples
 categories:
+  - 2009
   - Miscellaneous
 tags:
   - '06:5'

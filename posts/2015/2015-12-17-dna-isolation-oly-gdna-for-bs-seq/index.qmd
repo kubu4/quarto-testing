@@ -4,6 +4,7 @@ layout: post
 slug: dna-isolation-oly-gdna-for-bs-seq
 title: DNA Isolation - Oly gDNA for BS-seq
 categories:
+  - 2015
   - BS-seq Libraries for Sequencing at Genewiz
   - Olympia oyster reciprocal transplant
 tags:

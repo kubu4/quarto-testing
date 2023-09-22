@@ -4,6 +4,7 @@ layout: post
 slug: software-install-samtools-0-1-19-and-stacks-1-37
 title: Software Install - samtools-0.1.19 and stacks-1.37
 categories:
+  - 2016
   - Computer Servicing
 tags:
   - ipython notebook

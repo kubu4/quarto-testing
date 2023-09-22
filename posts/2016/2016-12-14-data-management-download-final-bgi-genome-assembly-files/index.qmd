@@ -4,6 +4,7 @@ layout: post
 slug: data-management-download-final-bgi-genome-assembly-files
 title: Data Management - Download Final BGI Genome & Assembly Files
 categories:
+  - 2016
   - Geoduck Genome Sequencing
   - Olympia Oyster Genome Sequencing
 tags:

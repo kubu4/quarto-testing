@@ -4,6 +4,7 @@ layout: post
 slug: data-received-ostrea-lurida-genome-sequencing-files-from-bgi
 title: Data Received - Ostrea lurida genome sequencing files from BGI
 categories:
+  - 2016
   - Olympia Oyster Genome Sequencing
 tags:
   - BGI

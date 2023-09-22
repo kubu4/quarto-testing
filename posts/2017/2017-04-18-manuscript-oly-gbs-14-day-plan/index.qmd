@@ -4,6 +4,7 @@ layout: post
 slug: manuscript-oly-gbs-14-day-plan
 title: Manuscript - Oly GBS 14 Day Plan
 categories:
+  - 2017
   - Genotype-by-sequencing at BGI
 tags:
   - Authorea

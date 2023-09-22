@@ -4,6 +4,7 @@ layout: post
 slug: restriction-digest-oly-gdna-for-rad-seq-walfi-3
 title: Restriction Digest – Oly gDNA for RAD-seq w/AlfI
 categories:
+  - 2015
   - 2bRAD Library Tests for Sequencing at Genewiz
   - Olympia oyster reciprocal transplant
 tags:

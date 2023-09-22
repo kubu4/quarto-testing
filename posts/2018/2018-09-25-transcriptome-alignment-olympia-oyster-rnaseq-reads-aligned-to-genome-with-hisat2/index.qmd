@@ -5,6 +5,7 @@ slug: transcriptome-alignment-olympia-oyster-rnaseq-reads-aligned-to-genome-with
 title: Transcriptome Alignment – Olympia oyster RNAseq reads aligned to genome with
   HISAT2
 categories:
+  - 2018
   - Miscellaneous
 tags:
   - alignment

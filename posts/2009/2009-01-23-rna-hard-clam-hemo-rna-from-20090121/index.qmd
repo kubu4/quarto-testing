@@ -4,6 +4,7 @@ layout: post
 slug: rna-hard-clam-hemo-rna-from-20090121
 title: RNA - Hard clam hemo RNA (from 20090121)
 categories:
+  - 2009
   - Miscellaneous
 tags:
   - Hard clam

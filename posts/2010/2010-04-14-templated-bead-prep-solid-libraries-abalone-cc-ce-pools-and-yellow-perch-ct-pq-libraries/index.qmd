@@ -5,6 +5,7 @@ slug: templated-bead-prep-solid-libraries-abalone-cc-ce-pools-and-yellow-perch-c
 title: Templated Bead Prep SOLiD Libraries - Abalone CC, CE pools and yellow perch
   CT, PQ libraries
 categories:
+  - 2010
   - Miscellaneous
 tags:
   - bead counts

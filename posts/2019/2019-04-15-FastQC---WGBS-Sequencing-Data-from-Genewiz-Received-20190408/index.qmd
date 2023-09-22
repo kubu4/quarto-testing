@@ -12,6 +12,7 @@ tags:
   - Panopea generosa
   - FastQC
 categories:
+  - 2019
   - Miscellaneous
 ---
 

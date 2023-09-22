@@ -4,6 +4,7 @@ layout: post
 slug: dna-isolation-c-gigas-larvae-from-katie-latterhos
 title: DNA Isolation - C.gigas Larvae from Katie Latterhos
 categories:
+  - 2014
   - Miscellaneous
 tags:
   - Crassostrea gigas

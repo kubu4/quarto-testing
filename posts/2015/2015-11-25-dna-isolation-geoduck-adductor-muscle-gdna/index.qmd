@@ -4,6 +4,7 @@ layout: post
 slug: dna-isolation-geoduck-adductor-muscle-gdna
 title: DNA Isolation - Geoduck Adductor Muscle gDNA
 categories:
+  - 2015
   - Geoduck Genome Sequencing
 tags:
   - DNA Isolation

@@ -4,6 +4,7 @@ layout: post
 slug: dnase-c-gigas-bb01-from-20110216
 title: DNase - C.gigas BB01 from 20110216
 categories:
+  - 2011
   - PROPS
 tags:
   - BB

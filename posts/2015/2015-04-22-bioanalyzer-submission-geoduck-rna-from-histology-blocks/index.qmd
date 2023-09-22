@@ -4,6 +4,7 @@ layout: post
 slug: bioanalyzer-submission-geoduck-rna-from-histology-blocks
 title: Bioanalyzer Submission - Geoduck Gonad RNA from Histology Blocks
 categories:
+  - 2015
   - Protein expression profiles during sexual maturation in Geoduck
 tags:
   - bioanalyzer

@@ -4,6 +4,7 @@ layout: post
 slug: rnaseq-data-receipt-geoduck-gonad-rna-100bp-pe-illumina
 title: RNAseq Data Receipt - Geoduck Gonad RNA 100bp PE Illumina
 categories:
+  - 2015
   - Protein expression profiles during sexual maturation in Geoduck
 tags:
   - geoduck

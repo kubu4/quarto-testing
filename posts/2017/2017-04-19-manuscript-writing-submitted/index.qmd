@@ -4,6 +4,7 @@ layout: post
 slug: manuscript-writing-submitted
 title: Manuscript Writing - Submitted!
 categories:
+  - 2017
   - Genotype-by-sequencing at BGI
 tags:
   - manuscript

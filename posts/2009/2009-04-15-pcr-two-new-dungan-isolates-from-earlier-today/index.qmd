@@ -4,6 +4,7 @@ layout: post
 slug: pcr-two-new-dungan-isolates-from-earlier-today
 title: PCR - Two new Dungan isolates from earlier today
 categories:
+  - 2009
   - Miscellaneous
 tags:
   - Dungan isolates

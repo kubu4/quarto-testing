@@ -4,6 +4,7 @@ layout: post
 slug: ethanol-precipitation-olympia-oyster-mbd
 title: Ethanol Precipitation - Olympia oyster MBD
 categories:
+  - 2015
   - MBD Enrichment for Sequencing at ZymoResearch
   - Olympia oyster reciprocal transplant
 tags:

@@ -4,6 +4,7 @@ layout: post
 slug: qpcr-check-dnased-rna-bb01-09-from-earlier-today
 title: qPCR - Check DNased RNA BB01 & 09 (from earlier today)
 categories:
+  - 2011
   - PROPS
 tags:
   - 18s

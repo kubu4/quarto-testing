@@ -4,6 +4,7 @@ layout: post
 slug: data-received-ostrea-lurida-mbd-enriched-bs-seq
 title: Data Received - Ostrea lurida MBD-enriched BS-seq
 categories:
+  - 2016
   - MBD Enrichment for Sequencing at ZymoResearch
   - Olympia oyster reciprocal transplant
 tags:

@@ -4,6 +4,7 @@ layout: post
 slug: rna-quantification-o-lurida-1hr-post-mechanical-heat-stress-dnased-rna
 title: RNA Quantification - O.lurida 1hr post-mechanical heat stress DNased RNA
 categories:
+  - 2015
   - Olympia oyster reciprocal transplant
 tags:
   - ctenidia

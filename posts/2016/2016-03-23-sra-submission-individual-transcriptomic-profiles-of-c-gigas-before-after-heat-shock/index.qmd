@@ -5,6 +5,7 @@ slug: sra-submission-individual-transcriptomic-profiles-of-c-gigas-before-after-
 title: SRA Submission - Individual Transcriptomic Profiles of C.gigas Before & After
   Heat Shock
 categories:
+  - 2016
   - SRA Submissions
 tags:
   - 2M

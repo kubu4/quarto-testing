@@ -4,6 +4,7 @@ layout: post
 slug: reverse-transcription-cdna-from-dnased-abalone-rna-from-20090420
 title: Reverse Transcription - cDNA from DNased Abalone RNA from 20090420
 categories:
+  - 2009
   - Miscellaneous
 tags:
   - black abalone

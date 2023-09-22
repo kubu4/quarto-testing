@@ -4,6 +4,7 @@ layout: post
 slug: qpcr-jakes-o-lurida-ctenidia-1hr-post-mechanical-stress-dnased-rna
 title: qPCR - Jake's O.lurida ctenidia 1hr post-mechanical stress DNased RNA
 categories:
+  - 2015
   - Olympia oyster reciprocal transplant
 tags:
   - actin

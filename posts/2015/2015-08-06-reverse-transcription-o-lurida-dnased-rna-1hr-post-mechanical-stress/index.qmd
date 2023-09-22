@@ -4,6 +4,7 @@ layout: post
 slug: reverse-transcription-o-lurida-dnased-rna-1hr-post-mechanical-stress
 title: Reverse Transcription – O.lurida DNased RNA 1hr post-mechanical stress
 categories:
+  - 2015
   - Olympia oyster reciprocal transplant
 tags:
   - cDNA

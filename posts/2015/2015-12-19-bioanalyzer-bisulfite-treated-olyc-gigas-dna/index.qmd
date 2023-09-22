@@ -4,6 +4,7 @@ layout: post
 slug: bioanalyzer-bisulfite-treated-olyc-gigas-dna
 title: Bioanalyzer - Bisulfite-treated Oly/C.gigas DNA
 categories:
+  - 2015
   - BS-seq Libraries for Sequencing at Genewiz
   - Olympia oyster reciprocal transplant
 tags:

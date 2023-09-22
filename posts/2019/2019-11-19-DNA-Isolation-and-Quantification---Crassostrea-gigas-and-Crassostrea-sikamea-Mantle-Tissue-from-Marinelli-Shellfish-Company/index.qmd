@@ -15,6 +15,7 @@ tags:
   - Kumamoto
   - DNAzol
 categories:
+  - 2019
   - Miscellaneous
 ---
 Isolated DNA from the _C.gigas_ and _C.sikamea_ samples we received from [Marinelli Shellfish Company on 20191030](https://robertslab.github.io/sams-notebook/2019/10/30/Samples-Received-Marinelli-Shellfish-Company-C.gigas-and-C.sikamea-Oysters.html) using DNAzol.

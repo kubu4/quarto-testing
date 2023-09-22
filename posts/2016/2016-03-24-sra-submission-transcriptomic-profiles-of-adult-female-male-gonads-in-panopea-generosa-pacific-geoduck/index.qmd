@@ -5,6 +5,7 @@ slug: sra-submission-transcriptomic-profiles-of-adult-female-male-gonads-in-pano
 title: SRA Submission - Transcriptomic Profiles of Adult Female & Male Gonads in Panopea
   generosa (Pacific geoduck).
 categories:
+  - 2016
   - Protein expression profiles during sexual maturation in Geoduck
 tags:
   - geoduck

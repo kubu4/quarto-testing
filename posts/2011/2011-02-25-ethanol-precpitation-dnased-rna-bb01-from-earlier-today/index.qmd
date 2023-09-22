@@ -4,6 +4,7 @@ layout: post
 slug: ethanol-precpitation-dnased-rna-bb01-from-earlier-today
 title: Ethanol Precpitation - DNased RNA BB01 (from earlier today)
 categories:
+  - 2011
   - PROPS
 tags:
   - BB

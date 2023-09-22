@@ -4,6 +4,7 @@ layout: post
 slug: goals-february-2017
 title: Goals - February 2017
 categories:
+  - 2017
   - Goals
 ---
 

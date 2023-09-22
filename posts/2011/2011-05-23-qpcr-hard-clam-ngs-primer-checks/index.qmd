@@ -4,6 +4,7 @@ layout: post
 slug: qpcr-hard-clam-ngs-primer-checks
 title: qPCR - Hard Clam NGS Primer Checks
 categories:
+  - 2011
   - Miscellaneous
 tags:
   - cDNA

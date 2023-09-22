@@ -6,6 +6,7 @@ tags:
   - daily bits
   - September
 categories: 
+  - 2022
   - Daily Bits
 ---
 

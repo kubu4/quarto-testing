@@ -4,6 +4,7 @@ layout: post
 slug: reverse-transcription-subset-of-jakes-o-lurida-dnased-rna
 title: Reverse Transcription - Subset of Jake's O.lurida DNased RNA
 categories:
+  - 2015
   - Miscellaneous
 tags:
   - cDNA

@@ -4,6 +4,7 @@ layout: post
 slug: sra-submission-genome-sequencing-of-the-pacific-geoduck-panopea-generosa
 title: SRA Submission – Genome sequencing of the Pacific geoduck (Panopea generosa)
 categories:
+  - 2016
   - Geoduck Genome Sequencing
   - SRA Submissions
 tags:

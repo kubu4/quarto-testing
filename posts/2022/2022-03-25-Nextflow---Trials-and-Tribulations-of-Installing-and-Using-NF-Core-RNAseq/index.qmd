@@ -8,6 +8,7 @@ tags:
   - RNAseq
   - nf-core
 categories: 
+  - 2022
   - Miscellaneous
 ---
 #### INSTALLATION

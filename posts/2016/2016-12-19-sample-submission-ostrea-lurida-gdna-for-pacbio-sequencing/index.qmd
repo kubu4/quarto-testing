@@ -4,6 +4,7 @@ layout: post
 slug: sample-submission-ostrea-lurida-gdna-for-pacbio-sequencing
 title: Sample Submission - Ostrea lurida gDNA for PacBio Sequencing
 categories:
+  - 2016
   - Olympia Oyster Genome Sequencing
   - Samples Submitted
 tags:

@@ -4,6 +4,7 @@ layout: post
 slug: goals-july-2015
 title: GOALS - July 2015
 categories:
+  - 2015
   - Goals
 ---
 

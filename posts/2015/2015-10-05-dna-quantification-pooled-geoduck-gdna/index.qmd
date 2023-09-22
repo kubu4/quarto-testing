@@ -4,6 +4,7 @@ layout: post
 slug: dna-quantification-pooled-geoduck-gdna
 title: DNA Quantification - Pooled geoduck gDNA
 categories:
+  - 2015
   - Geoduck Genome Sequencing
 tags:
   - DNA Quantification

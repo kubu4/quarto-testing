@@ -10,6 +10,7 @@ tags:
   - gonad
   - Eastern oyster
 categories: 
+  - 2022
   - Project Summary
 ---
 This will be a “dynamic” notebook entry, whereby I will update this post continually as I process new samples, analyze new data, etc for this project. The hope is to make it easier to find all the work I’ve done for this without having to search my notebook to find individual notebook entries.

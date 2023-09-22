@@ -5,6 +5,7 @@ slug: samples-received-acropora-cervicornis-staghorn-coral-dna-from-javier-casar
 title: Samples Received - Acropora cervicornis (Staghorn coral) DNA from Javier Casariego
   (FIU)
 categories:
+  - 2017
   - Samples Received
 tags:
   - Acropora cervicornis

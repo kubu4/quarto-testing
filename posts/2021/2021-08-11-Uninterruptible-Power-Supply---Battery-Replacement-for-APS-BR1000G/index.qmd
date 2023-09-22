@@ -9,6 +9,7 @@ tags:
   - BR1000G
   - Pro 1000
 categories: 
+  - 2021
   - Computer
   - Servicing
 ---

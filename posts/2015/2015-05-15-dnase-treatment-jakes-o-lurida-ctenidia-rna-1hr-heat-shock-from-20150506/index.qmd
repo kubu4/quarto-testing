@@ -4,6 +4,7 @@ layout: post
 slug: dnase-treatment-jakes-o-lurida-ctenidia-rna-1hr-heat-shock-from-20150506
 title: DNase Treatment - Jake's O.lurida Ctenidia RNA (1hr Heat Shock) from 20150506
 categories:
+  - 2015
   - Miscellaneous
 tags:
   - DNase

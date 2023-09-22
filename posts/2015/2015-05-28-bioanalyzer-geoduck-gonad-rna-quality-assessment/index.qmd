@@ -4,6 +4,7 @@ layout: post
 slug: bioanalyzer-geoduck-gonad-rna-quality-assessment
 title: Bioanalyzer - Geoduck Gonad RNA Quality Assessment
 categories:
+  - 2015
   - Protein expression profiles during sexual maturation in Geoduck
 tags:
   - bioanalyzer

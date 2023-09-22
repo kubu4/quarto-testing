@@ -4,6 +4,7 @@ layout: post
 slug: mox-password-less-ssh
 title: Mox - Password-less SSH!
 categories:
+  - 2018
   - Miscellaneous
 ---
 

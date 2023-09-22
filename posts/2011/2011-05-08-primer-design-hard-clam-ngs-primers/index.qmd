@@ -4,6 +4,7 @@ layout: post
 slug: primer-design-hard-clam-ngs-primers
 title: Primer Design - Hard Clam NGS Primers
 categories:
+  - 2011
   - Miscellaneous
 tags:
   - Hard clam

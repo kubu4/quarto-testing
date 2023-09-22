@@ -4,6 +4,7 @@ layout: post
 slug: qpx-sample-pooling-for-illumina-sequencing
 title: QPX Sample Pooling for Illumina Sequencing
 categories:
+  - 2012
   - Miscellaneous
 tags:
   - DNA-seq

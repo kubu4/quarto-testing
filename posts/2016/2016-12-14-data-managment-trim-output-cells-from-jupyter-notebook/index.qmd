@@ -4,6 +4,7 @@ layout: post
 slug: data-managment-trim-output-cells-from-jupyter-notebook
 title: Data Managment - Trim Output Cells from Jupyter Notebook
 categories:
+  - 2016
   - Miscellaneous
 tags:
   - jupyter notebook

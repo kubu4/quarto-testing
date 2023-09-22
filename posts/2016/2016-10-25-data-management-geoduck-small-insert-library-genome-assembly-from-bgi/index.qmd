@@ -4,6 +4,7 @@ layout: post
 slug: data-management-geoduck-small-insert-library-genome-assembly-from-bgi
 title: Data Management – Geoduck Small Insert Library Genome Assembly from BGI
 categories:
+  - 2016
   - Geoduck Genome Sequencing
 tags:
   - BGI

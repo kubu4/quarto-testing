@@ -5,6 +5,7 @@ slug: assembly-stats-geoduck-genome-assembly-comparisons-wquast-sparseassembler-
 title: Assembly Stats - Geoduck Genome Assembly Comparisons w/Quast - SparseAssembler,
   SuperNova, Hi-C
 categories:
+  - 2018
   - Geoduck Genome Sequencing
 tags:
   - assembly

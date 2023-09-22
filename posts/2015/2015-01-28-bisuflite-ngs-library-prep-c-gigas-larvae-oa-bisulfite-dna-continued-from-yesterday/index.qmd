@@ -5,6 +5,7 @@ slug: bisuflite-ngs-library-prep-c-gigas-larvae-oa-bisulfite-dna-continued-from-
 title: Bisuflite NGS Library Prep - C.gigas larvae OA bisulfite DNA (continued from
   yesterday)
 categories:
+  - 2015
   - Crassostrea gigas larvae OA (2011) bisulfite sequencing
 tags:
   - barcodes

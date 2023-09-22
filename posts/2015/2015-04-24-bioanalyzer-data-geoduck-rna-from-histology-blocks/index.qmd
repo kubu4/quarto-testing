@@ -4,6 +4,7 @@ layout: post
 slug: bioanalyzer-data-geoduck-rna-from-histology-blocks
 title: Bioanalyzer Data - Geoduck RNA from Histology Blocks
 categories:
+  - 2015
   - Protein expression profiles during sexual maturation in Geoduck
 tags:
   - bioanalyzer

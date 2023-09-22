@@ -4,6 +4,7 @@ layout: post
 slug: genomic-dna-isolation-geoduck-adductor-muscle-foot-3
 title: Genomic DNA Isolation – Geoduck Adductor Muscle & Foot
 categories:
+  - 2015
   - Geoduck Genome Sequencing
 tags:
   - DNA Isolation

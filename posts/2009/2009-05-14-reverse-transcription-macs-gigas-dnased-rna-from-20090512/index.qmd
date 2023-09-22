@@ -4,6 +4,7 @@ layout: post
 slug: reverse-transcription-macs-gigas-dnased-rna-from-20090512
 title: Reverse Transcription - Mac's gigas DNased RNA from 20090512
 categories:
+  - 2009
   - PROPS
 tags:
   - BB

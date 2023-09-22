@@ -11,6 +11,7 @@ tags:
   - fastp
   - mox
 categories: 
+  - 2022
   - Miscellaneous
 ---
 We had some old [_Crassostrea virginica_ (Eastern oyster)](https://en.wikipedia.org/wiki/Eastern_oyster) larval/zygote BS-seq data from the Lotterhos Lab that's part of the [CEABiGR Workshop/Project](https://github.com/sr320/ceabigr) (GitHub Repo) and Steven asked that I QC/trim it in [this GitHub Issue](https://github.com/RobertsLab/resources/issues/1517).

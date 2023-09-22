@@ -4,6 +4,7 @@ layout: post
 slug: sdspagewestern-anti-hsp70-ab-re-test
 title: SDS/PAGE/Western - anti-HSP70 Ab Re-test
 categories:
+  - 2008
   - Miscellaneous
 tags:
   - anti-HSP70

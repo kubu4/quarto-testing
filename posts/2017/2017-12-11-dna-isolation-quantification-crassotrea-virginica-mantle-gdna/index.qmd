@@ -4,6 +4,7 @@ layout: post
 slug: dna-isolation-quantification-crassotrea-virginica-mantle-gdna
 title: DNA Isolation & Quantification - Crassostrea virginica Mantle gDNA
 categories:
+  - 2017
   - Miscellaneous
 tags:
   - Crassostrea virginica

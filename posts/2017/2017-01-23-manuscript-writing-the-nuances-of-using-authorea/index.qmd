@@ -4,6 +4,7 @@ layout: post
 slug: manuscript-writing-the-nuances-of-using-authorea
 title: Manuscript Writing - The "Nuances" of Using Authorea
 categories:
+  - 2017
   - Genotype-by-sequencing at BGI
   - Miscellaneous
 tags:

@@ -4,6 +4,7 @@ layout: post
 slug: sequence-data-lsu-c-virginica-oil-spill-mbd-bs-seq-demultiplexed
 title: Sequence Data - LSU C.virginica Oil Spill MBD BS-Seq Demultiplexed
 categories:
+  - 2015
   - LSU C.virginica Oil Spill MBD BS Sequencing
 tags:
   - BS-seq

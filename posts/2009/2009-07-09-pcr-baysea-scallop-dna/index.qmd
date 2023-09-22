@@ -4,6 +4,7 @@ layout: post
 slug: pcr-baysea-scallop-dna
 title: PCR - Bay/Sea Scallop DNA
 categories:
+  - 2009
   - Miscellaneous
 tags:
   - actin

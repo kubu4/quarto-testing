@@ -4,6 +4,7 @@ layout: post
 slug: oligo-reconstitution-illumina-rnaseq-library-oligos-and-barcodes
 title: Oligo Reconstitution - Illumina RNAseq Library Oligos and Barcodes
 categories:
+  - 2012
   - Miscellaneous
 tags:
   - barcodes

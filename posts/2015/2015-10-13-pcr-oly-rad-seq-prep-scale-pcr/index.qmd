@@ -4,6 +4,7 @@ layout: post
 slug: pcr-oly-rad-seq-prep-scale-pcr
 title: PCR - Oly RAD-seq Prep Scale PCR
 categories:
+  - 2015
   - 2bRAD Library Tests for Sequencing at Genewiz
   - Olympia oyster reciprocal transplant
 tags:

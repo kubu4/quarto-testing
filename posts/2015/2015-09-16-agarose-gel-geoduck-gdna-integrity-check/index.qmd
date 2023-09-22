@@ -4,6 +4,7 @@ layout: post
 slug: agarose-gel-geoduck-gdna-integrity-check
 title: Agarose Gel – Geoduck gDNA Integrity Check
 categories:
+  - 2015
   - Geoduck Genome Sequencing
 tags:
   - gDNA

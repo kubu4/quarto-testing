@@ -9,6 +9,7 @@ tags:
   - DNA methylation
   - data received
 categories: 
+  - 2022
   - Data Received
 ---
 In [this GitHub Issue](https://github.com/RobertsLab/resources/issues/1362) Steven asked that I download [_Crassostrea virginica_ (Eastern oyster)](https://en.wikipedia.org/wiki/Eastern_oyster) OA larval DNA methylation sequencing data from the Lotterhos Lab. The data is part of this project (_private_ GitHub repo): [epigeneticstoocean/2018_L18_OAExp_Cvirginica_DNAm](https://github.com/epigeneticstoocean/2018_L18_OAExp_Cvirginica_DNAm). Alan Downey-Wall provided me with a [GlobusConnect](https://www.globus.org/globus-connect-personal) link to the data.

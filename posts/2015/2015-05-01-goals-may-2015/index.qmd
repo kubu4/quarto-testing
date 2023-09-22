@@ -4,6 +4,7 @@ layout: post
 slug: goals-may-2015
 title: Goals - May 2015
 categories:
+  - 2015
   - Crassostrea gigas larvae OA (2011) bisulfite sequencing
   - Goals
   - Lineage-specific DNA methylation patterns in developing oysters

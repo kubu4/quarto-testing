@@ -4,6 +4,7 @@ layout: post
 slug: software-installation-alpaca-on-roadrunner
 title: Software Installation - ALPACA on Roadrunner
 categories:
+  - 2017
   - Miscellaneous
 tags:
   - ALPACA

@@ -4,6 +4,7 @@ layout: post
 slug: dna-isolations-oly-fidalgo-2sn-ctenidia
 title: DNA Isolations – Oly Fidalgo 2SN Ctenidia
 categories:
+  - 2015
   - Olympia oyster reciprocal transplant
 tags:
   - DNA Isolation

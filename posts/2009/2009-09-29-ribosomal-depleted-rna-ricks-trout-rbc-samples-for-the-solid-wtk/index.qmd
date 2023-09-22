@@ -4,6 +4,7 @@ layout: post
 slug: ribosomal-depleted-rna-ricks-trout-rbc-samples-for-the-solid-wtk
 title: Ribosomal-depleted RNA - Rick's trout RBC samples for the SOLiD WTK
 categories:
+  - 2009
   - Miscellaneous
 tags:
   - library prep

@@ -4,6 +4,7 @@ layout: post
 slug: qpcr-emmas-new-3kdsqpcr-primers
 title: qPCR - Emma's New 3KDSqPCR Primers
 categories:
+  - 2011
   - Miscellaneous
 tags:
   - 3KDS

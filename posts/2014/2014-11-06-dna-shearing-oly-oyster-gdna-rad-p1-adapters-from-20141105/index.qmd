@@ -4,6 +4,7 @@ layout: post
 slug: dna-shearing-oly-oyster-gdna-rad-p1-adapters-from-20141105
 title: DNA Shearing & Size Selection - Oly Oyster gDNA RAD P1 Adapters (from 20141105)
 categories:
+  - 2014
   - Olympia oyster reciprocal transplant
 tags:
   - DNA Shearing

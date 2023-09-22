@@ -4,6 +4,7 @@ layout: post
 slug: dna-quantification-c-gigas-larvae-1000ppm
 title: DNA Quantification - C.gigas Larvae 1000ppm
 categories:
+  - 2015
   - Crassostrea gigas larvae OA (2011) bisulfite sequencing
 tags:
   - Crassostrea gigas

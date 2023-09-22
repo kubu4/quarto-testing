@@ -4,6 +4,7 @@ layout: post
 slug: data-management-o-lurida-2brad-dec2015-undetermined-fastq-files
 title: Data Management - O.lurida 2bRAD Dec2015 Undetermined FASTQ files
 categories:
+  - 2016
   - 2bRAD Library Tests for Sequencing at Genewiz
   - Olympia oyster reciprocal transplant
 tags:

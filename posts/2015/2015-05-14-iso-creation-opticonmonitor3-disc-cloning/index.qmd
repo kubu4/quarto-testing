@@ -4,6 +4,7 @@ layout: post
 slug: iso-creation-opticonmonitor3-disc-cloning
 title: ISO Creation - OpticonMonitor3 Disc Cloning
 categories:
+  - 2015
   - Computer Servicing
 tags:
   - Apple

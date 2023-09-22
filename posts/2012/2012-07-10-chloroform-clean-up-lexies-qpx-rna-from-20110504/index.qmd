@@ -4,6 +4,7 @@ layout: post
 slug: chloroform-clean-up-lexies-qpx-rna-from-20110504
 title: Chloroform Clean Up - Lexie's QPX RNA from 20110504
 categories:
+  - 2012
   - Miscellaneous
 tags:
   - chloroform

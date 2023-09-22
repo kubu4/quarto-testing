@@ -4,6 +4,7 @@ layout: post
 slug: gbs-frustrations
 title: GBS Frustrations
 categories:
+  - 2016
   - Miscellaneous
 tags:
   - Cyverse

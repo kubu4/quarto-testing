@@ -4,6 +4,7 @@ layout: post
 slug: sample-submissions-to-mogene-for-454-analysis-herring-liver-and-testes-mrna
 title: Sample Submissions to MoGene for 454 Analysis - Herring Liver and Testes mRNA
 categories:
+  - 2009
   - Miscellaneous
   - Samples Submitted
 tags:

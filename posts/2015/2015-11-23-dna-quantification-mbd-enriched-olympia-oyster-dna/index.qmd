@@ -4,6 +4,7 @@ layout: post
 slug: dna-quantification-mbd-enriched-olympia-oyster-dna
 title: DNA Quantification - MBD-enriched Olympia oyster DNA
 categories:
+  - 2015
   - MBD Enrichment for Sequencing at ZymoResearch
   - Olympia oyster reciprocal transplant
 tags:

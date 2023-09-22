@@ -4,6 +4,7 @@ layout: post
 slug: opticon2-calibration
 title: Opticon2 Calibration
 categories:
+  - 2015
   - Miscellaneous
 tags:
   - calibration

@@ -4,6 +4,7 @@ layout: post
 slug: dna-isolation-geoduck-gdna-for-potential-illumina-initiated-sequencing-project
 title: DNA Isolation - Geoduck gDNA for Potential Illumina-initiated Sequencing Project
 categories:
+  - 2016
   - Geoduck Genome Sequencing
 tags:
   - DNA Isolation

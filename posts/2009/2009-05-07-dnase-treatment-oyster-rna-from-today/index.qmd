@@ -4,6 +4,7 @@ layout: post
 slug: dnase-treatment-oyster-rna-from-today
 title: DNase Treatment - Oyster RNA from today
 categories:
+  - 2009
   - PROPS
 tags:
   - BB

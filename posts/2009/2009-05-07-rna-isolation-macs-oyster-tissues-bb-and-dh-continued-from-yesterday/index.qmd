@@ -4,6 +4,7 @@ layout: post
 slug: rna-isolation-macs-oyster-tissues-bb-and-dh-continued-from-yesterday
 title: RNA Isolation - Mac's oyster tissues (BB and DH) (CONTINUED from yesterday)
 categories:
+  - 2009
   - PROPS
 tags:
   - BB

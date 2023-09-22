@@ -10,6 +10,7 @@ tags:
   - transcriptome
   - annotation
 categories:
+  - 2020
   - Miscellaneous
 ---
 To continue annotation of our _Hematodinium_ v1.6 transcriptome assembly, I wanted to run [Trinotate](https://github.com/Trinotate/Trinotate.github.io/wiki).

@@ -4,6 +4,7 @@ layout: post
 slug: data-received-geoduck-rrbs-sequencing-data
 title: Data Received - Geoduck RRBS Sequencing Data
 categories:
+  - 2016
   - Miscellaneous
 tags:
   - Genewiz

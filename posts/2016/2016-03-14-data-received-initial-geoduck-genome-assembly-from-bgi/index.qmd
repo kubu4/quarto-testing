@@ -4,6 +4,7 @@ layout: post
 slug: data-received-initial-geoduck-genome-assembly-from-bgi
 title: Data Received - Initial Geoduck Genome Assembly from BGI
 categories:
+  - 2016
   - Geoduck Genome Sequencing
 tags:
   - assembly

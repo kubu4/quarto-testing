@@ -4,6 +4,7 @@ layout: post
 slug: data-analysis-faststructure-population-analysis-of-oly-gbs-pyrad-output
 title: Data Analysis - fastStructure Population Analysis of Oly GBS PyRAD Output
 categories:
+  - 2016
   - Genotype-by-sequencing at BGI
 tags:
   - fastStructure

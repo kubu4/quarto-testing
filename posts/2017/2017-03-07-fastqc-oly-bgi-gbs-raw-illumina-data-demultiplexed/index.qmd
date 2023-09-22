@@ -4,6 +4,7 @@ layout: post
 slug: fastqc-oly-bgi-gbs-raw-illumina-data-demultiplexed
 title: FASTQC - Oly BGI GBS Raw Illumina Data Demultiplexed
 categories:
+  - 2017
   - Genotype-by-sequencing at BGI
 tags:
   - BGI

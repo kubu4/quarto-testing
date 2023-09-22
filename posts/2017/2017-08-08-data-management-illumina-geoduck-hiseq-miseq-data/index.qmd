@@ -4,6 +4,7 @@ layout: post
 slug: data-management-illumina-geoduck-hiseq-miseq-data
 title: Data Management - Illumina Geoduck HiSeq & MiSeq Data
 categories:
+  - 2017
   - Geoduck Genome Sequencing
 tags:
   - FASTQ

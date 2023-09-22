@@ -4,6 +4,7 @@ layout: post
 slug: computing-not-enough-power
 title: Computing - Not Enough Power!
 categories:
+  - 2016
   - Miscellaneous
 tags:
   - computing

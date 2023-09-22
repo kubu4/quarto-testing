@@ -4,6 +4,7 @@ layout: post
 slug: dna-isolation-olympia-oyster-outer-mantle-gdna-2
 title: DNA Isolation - Olympia Oyster Outer Mantle gDNA
 categories:
+  - 2015
   - Olympia Oyster Genome Sequencing
 tags:
   - chloroform

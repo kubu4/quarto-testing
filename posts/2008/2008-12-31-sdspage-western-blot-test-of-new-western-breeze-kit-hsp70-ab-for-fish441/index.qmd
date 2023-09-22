@@ -4,6 +4,7 @@ layout: post
 slug: sdspage-western-blot-test-of-new-western-breeze-kit-hsp70-ab-for-fish441
 title: SDS/PAGE, Western Blot - Test of new Western Breeze Kit & HSP70 Ab for FISH441
 categories:
+  - 2008
   - Miscellaneous
 tags:
   - anti-HSP70
